@@ -1,13 +1,14 @@
-# Internship---NextGen-Analytix.
-6-month Data Analyst Internship Certificate showcasing hands-on experience in SQL, Power BI, Excel, and Python.
+# Internship---NexGen-Analytix.
+
 
 
 
 This repository contains 'Internship Completion Certificate' for successfully completing a '6-month Data Analyst Internship'.
+showcasing hands-on experience in SQL, Power BI, Excel, and Python.
 
 # Internship Overview
 - Role: Data Analyst Intern
-- Company Name: NextGen Analytix
+- Company Name: NexGen Analytix
 - Duration: 6 Months  
 - Tools & Technologies: 
   - SQL  
